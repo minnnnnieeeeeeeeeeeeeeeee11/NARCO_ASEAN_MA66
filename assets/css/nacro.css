@@ -1,0 +1,29 @@
+.bg{
+    background-color: #16357B;
+}
+.text-bottom{
+    color: #ffffff;
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.text-bottom1 {
+    color: #ffffff;
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+}
+.head-new {
+    font-weight: 700;
+    font-size: 28px;
+    color: #343434;
+}
+.content-new {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+* {
+    font-family: 'Promt', sans-serif;
+}
+
+
