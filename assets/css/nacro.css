@@ -1,29 +1,129 @@
+* {
+    font-family: 'Prompt', sans-serif;
+}
+
 .bg{
     background-color: #16357B;
 }
-.text-bottom{
+.text_serve {
+    font-size: 18px;
+}   
+
+.head-footer { /* text-bottom */
     color: #ffffff;
-    font-family: 'Prompt', sans-serif;
     font-size: 14px;
     font-weight: bold;
 }
-.text-bottom1 {
+
+.content-footer { /* text-bottom1 */
     color: #ffffff;
-    font-family: 'Prompt', sans-serif;
     font-size: 14px;
 }
+
 .head-new {
     font-weight: 700;
     font-size: 28px;
     color: #343434;
 }
+
 .content-new {
     font-weight: 300;
     font-size: 16px;
 }
 
-* {
-    font-family: 'Promt', sans-serif;
+.imgset {
+    width: 100px;
+    padding-top: 2rem; 
+    margin-bottom: 15px;
 }
 
+.boxset {
+    border-radius: 70%;
+    border-color: #ffffff;
+    width: 140px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
 
+.name-shortcut{
+    font-size: 18px;
+    color: #343434;
+    font-weight: 600;
+}
+
+/* .text_report {
+    font-size: 18px;
+    padding-bottom: 5px;
+    font-family: 'Prompt-Regular';
+} */
+
+.btu_report {
+    width: 170px;
+    height: 35px;
+    border-radius: 50px;
+}
+
+.tab-index {
+    border-radius: 50px !important;
+}
+
+.ul-li-center {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.tab-index {
+    border: 1px solid #000 !important;
+    border-radius: 50px !important;
+}
+
+.button-news {
+    font-size: 20px;
+}
+
+.more-index {
+    background-color: #853F89;
+    color: #fff;
+    border: 1px solid #853F89;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+
+.card-pad { 
+    padding: 10px;
+}
+
+.date-news {
+    font-size: 13px;
+    color: #55515E;
+}
+.c-title {
+    font-size: 17px;
+}
+
+.min-h-box-index {
+    min-height: 100px;
+    height: 90%;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.news-pic {
+    border-radius: 15px;
+}
+
+/* .pic-ebook {
+    justify-content: center;
+} */
+
+.name-ebook {
+    font-size: 17px;
+}

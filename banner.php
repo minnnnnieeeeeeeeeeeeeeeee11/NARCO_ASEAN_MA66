@@ -11,12 +11,12 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="assets/images/banner1.png" class="d-block w-100" alt="...">
+            <img src="assets/images/banner2.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
             </div>
         </div>
         <div class="carousel-item">
-            <img src="assets/images/banner1.png" class="d-block w-100" alt="...">
+            <img src="assets/images/banner3.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
             </div>
         </div>
@@ -27,6 +27,6 @@
     </button>
     <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only ">Next</span>
     </button>
 </div>
