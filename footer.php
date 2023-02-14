@@ -1,9 +1,10 @@
-<footer class="pt-4 my-md-5 pt-md-5 border-top bg ">
+<footer class="pt-4 border-top bg ">
 	<div class="container">
 		<div class="row mr-0 ml-0">
 			<div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-				<h7 class="head-footer"> สำนักงานป้องกันและปราบปรามยาเสพติดอาเซียน </h7>
+				<h5 class="head-footer">ข้อมูลติดต่อ</h5>
 				<ul class="list-unstyled text-small">
+					<li><a class="content-footer" href="#"> สำนักงานป้องกันและปราบปรามยาเสพติดอาเซียน  </a></li>
 					<li><a class="content-footer" href="#"> 5 ถนนดินแดง เขตพญาไท กรุงเทพมหานคร 10400 </a></li>
 					<li><a class="content-footer" href="#"> อีเมล์ : aseannarco@oncb.go.th </a></li>
 					<li><a class="content-footer" href="#"> โทรศัพท์ : 02-251-7853-6 </a></li>
@@ -21,7 +22,7 @@
 				</ul>
 			</div>
 			<div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 ">
-				<h7 class="head-footer"></h7>
+				<h5 class="head-footer">แผนผังเว็บไซต์</h5>
 				<ul class="list-unstyled text-small ">
 					<li><a class="content-footer" href="#"> เกี่ยวกับเรา </a></li>
 					<li><a class="content-footer" href="#"> ข้อมูล ปปส. อาเซียน </a></li>
@@ -31,7 +32,7 @@
 				</ul>
 			</div>
 			<div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 ">
-				</h7>
+				<br>
 				<ul class="list-unstyled text-small">
 					<li><a class="content-footer" href="#"> ข่าวสาร </a></li>
 					<li><a class="content-footer" href="#"> ติดต่อเรา </a></li>
@@ -40,7 +41,7 @@
 		</div>
 		<hr color="white">
 		<span class="text-center content-footer">
-			<p>© สำนักงาน ป.ป.ส. อาเซียน (ASEAN Narcotics Cooperation Center)<br>
+			<p>© สำนักงาน ป.ป.ส. อาเซียน (ASEAN Narcotics Cooperation Center)</p><br>
 		</span>
 		<br>
 	</div>

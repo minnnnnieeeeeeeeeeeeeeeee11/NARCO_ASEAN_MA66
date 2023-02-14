@@ -1,14 +1,12 @@
 <?php include('comtop.php'); ?>
-<?php include('header.php'); ?>
+<?php include('header3.php'); ?>
 <!-- header -->
 <?php include('banner.php'); ?>
-<!-- -->
+
 
 
 <div class="container">
-    <div class="text-center">
-        <h1 class="head-new">ทางลัดใช้บ่อย</h1>
-    </div>
+
     <div class="row">
         <div class="col-lg-2 col-md-3 col-sm-6 col-6 pb-5 text-center">
             <div class="">
@@ -38,7 +36,7 @@
             <div class="">
                 <img class="imgset" src="assets/images/icon5.png" alt="ADMIN SYSTEM" title="ADMIN SYSTEM">
             </div>
-            <a href="" target="_blank" class="name-shortcut">ADMIN SYSTEM</a>
+            <a href="" target="_blank" class="name-shortcut">ADMN SYSTEM</a>
         </div>
         <div class="col-lg-2 col-md-3 col-sm-6 col-6 pb-5 text-center">
             <div class="">
@@ -47,15 +45,21 @@
             <a href="" target="_blank" class="name-shortcut">เว็บลิงค์</a>
         </div>
     </div>
+</div>
 
     
     <?php include('content_news.php'); ?>
-    <?php include('ebook.php'); ?>
+    <?php include('ebook.php'); ?> 
     <?php include('media.php'); ?>
+    <?php include('partner2.php'); ?>
 
     
 
-</div>
+
+
+
+    
+
 
 
 

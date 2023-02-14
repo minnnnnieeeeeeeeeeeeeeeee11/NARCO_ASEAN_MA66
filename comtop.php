@@ -11,7 +11,7 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300&display=swap" rel="stylesheet">
-
-		<title> New Project </title>
+		<link rel="icon" href="assets/images/icon0.png">
+		<title> ป.ป.ส. อาเซียน </title>
 	</head>
 	<body>

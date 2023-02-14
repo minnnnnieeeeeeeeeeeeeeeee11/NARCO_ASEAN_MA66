@@ -1,10 +1,26 @@
-* {
+
+body {
     font-family: 'Prompt', sans-serif;
+}
+.carousel-indicators li {
+    background-color: #848184;
+    border-radius: 50px;
+    width: 10px;
+    height: 10px;
+    border-top: 0px;
+    border-bottom: 0px;
 }
 
 .bg{
     background-color: #16357B;
 }
+
+.header--bg {
+    padding: 80px 0px 0px 0px;
+    background: #5463B0;
+}
+
+
 .text_serve {
     font-size: 18px;
 }   
@@ -24,6 +40,7 @@
     font-weight: 700;
     font-size: 28px;
     color: #343434;
+    padding-top: 25px;
 }
 
 .content-new {
@@ -85,11 +102,11 @@
 }
 
 .more-index {
-    background-color: #853F89;
+    background-color: #5463B0;
     color: #fff;
-    border: 1px solid #853F89;
+    border: 1px solid #5463B0;
     border-radius: 50px;
-    width: fit-content;
+    width: 160px; /* fit-content; */
     padding: 5px 25px;
     font-size: 15px;
 }
@@ -100,21 +117,26 @@
 
 .date-news {
     font-size: 13px;
-    color: #55515E;
+    color: #ccc;
 }
 .c-title {
     font-size: 17px;
+    font-weight: 600;
 }
 
 .min-h-box-index {
     min-height: 100px;
-    height: 90%;
+
 }
 
 a {
-    color: #000;
     text-decoration: none;
+    color: #000;
 }
+a:hover {
+    color: #853F89;
+    text-decoration: none;
+  }
 
 .news-pic {
     border-radius: 15px;
@@ -127,3 +149,92 @@ a {
 .name-ebook {
     font-size: 17px;
 }
+
+.name {
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #343434;
+}
+
+.dowload {
+    color: #853F89;
+    font-size: 20px;
+}
+
+.b-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #343434;
+}
+
+
+/* header */
+
+a.nav-link {
+    color: #16357B !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.dropdown-toggle {
+    white-space: inherit;
+}
+
+a.nav-link:hover {
+    color: #853F89 !important;
+}
+ul.dropdown-menu {
+    padding: 5px 0px;
+}
+.dropdown-menu {
+    border: 2px solid #42178a;
+}
+nav {
+    font-weight: 400;
+}
+
+.dropdown-item {
+    min-width: 250px !important;
+    white-space: break-spaces !important;
+}
+
+ul.dropdown-menu li {
+    border-bottom: 1px solid #eee;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.max-width-logo {
+    width: 290px;
+}
+
+/* submenu */
+.navbar-nav li>ul.dropdown-menu>li.dropdown-submenu:hover>ul.dropdown-menu {
+	display: block;
+}
+
+.dropdown-submenu>.dropdown-menu {
+	top: -3px;
+	left: 100%;
+	margin-top: 0px;
+	overflow-y: auto;
+	max-height: 80vh;
+}
+
+.dropdown-menu>li>a:hover:after {
+	transform: rotate(-90deg);
+}
+
+@media (max-width: 575.98px) {
+    .max-width-logo {
+        width: 215px;
+    }
+    /* .bg-height-sm {
+        height: 182px;
+    }
+    .bg-heiht-mt {
+        margin-top: 5px;
+    } */
+}
+
