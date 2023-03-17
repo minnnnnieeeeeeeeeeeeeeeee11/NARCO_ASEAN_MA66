@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     #bg-ebook {
         background-image: url('assets/images/background2.png');
 ;
@@ -10,7 +10,7 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
-</style>
+</style> -->
 
 <section id="bg-ebook">
     <div class="container">
@@ -21,7 +21,7 @@
 
         <div class="row">
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>
@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>
@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>
@@ -54,7 +54,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>
@@ -76,7 +76,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                <img src="assets/images/ebook1.jpg" class="img-fluid rounded ">
+                <img src="assets/images/ebook1.webp" class="img-fluid rounded ">
                 <div class="mt-3">
                     <a href="" target="_blank" title="ASWAN DRUG MONITORING REPORT 2021" class="b-title">
                         ASWAN DRUG MONITORING REPORT 2021 </a><br>

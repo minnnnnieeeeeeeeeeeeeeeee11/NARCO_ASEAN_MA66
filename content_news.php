@@ -3,13 +3,15 @@
       background-color: #22A39F;
     }
     .font {
-        color: #000 !important;
+        color: #000;
     }
+
+    
 </style>
 
 <section id="bg-news">
     <div class="container">
-        <div class="text-center mb-5">
+        <div class="text-center mb-4">
             <h1 class="head-new">ข่าวสาร</h1>
             <p class="content-new">ข่าวแนะนำสำหรับคุณ เพื่อการรับข่าวสารที่น่าสนใจและรวดเร็ว</p>
         </div>
@@ -18,19 +20,19 @@
 
         <div class="mb-2">
             <ul class="nav nav-tabs my-4 ul-li-center" id="myTab" role="tablist" style="border-bottom: 0px;">
-                <li class="nav-item mx-2" role="presentation">
+                <li class="nav-item mx-2 py-2" role="presentation">
                     <a class="nav-link active tab-index button-news " id="nav-button1" data-toggle="tab" href="#button1" role="tab"
                         aria-controls="button1" aria-selected="true">
                         <span class="font "> ข่าวทั้งหมด </span>
                     </a>
                 </li>
-                <li class="nav-item mx-2" role="presentation">
+                <li class="nav-item mx-2 py-2" role="presentation">
                     <a class="nav-link tab-index button-news " id="nav-button2" data-toggle="tab" href="#button2" role="tab"
                         aria-controls="button2" aria-selected="true">
                         <span class="font"> ข่าวล่าสุด </span>
                     </a>
                 </li>
-                <li class="nav-item mx-2" role="presentation">
+                <li class="nav-item mx-2 py-2" role="presentation">
                     <a class="nav-link tab-index button-news" id="nav-button3" data-toggle="tab" href="#button3" role="tab"
                         aria-controls="button3" aria-selected="true">
                         <span class="font"> ข่าวยอดนิยม</span>
@@ -48,7 +50,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic " alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic " alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -75,7 +77,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -102,7 +104,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -129,7 +131,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -156,7 +158,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic " alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic " alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -183,7 +185,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news1.jpg" class="w-100 p-2 news-pic " alt="..." title="...">
+                                        <img src="assets/images/news1.webp" class="w-100 p-2 news-pic " alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -209,7 +211,7 @@
 
                 <div class="row">
                     <div class="col-12 text-center">
-                        <a href="all_news.php" target="_black">
+                        <a href="" target="_black">
                             <div class="more-index mx-auto my-3">
                                 ดูทั้งหมด
                             </div>
@@ -227,7 +229,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -254,7 +256,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -281,7 +283,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -308,7 +310,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -335,7 +337,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -362,7 +364,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news2.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news2.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -389,7 +391,7 @@
 
                 <div class="row">
                     <div class="col-12 text-center">
-                        <a href="breaking_news.php" target="_black">
+                        <a href="" target="_black">
                             <div class="more-index mx-auto my-3">
                                 ดูทั้งหมด
                             </div>
@@ -407,7 +409,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -434,7 +436,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -461,7 +463,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -488,7 +490,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -515,7 +517,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -542,7 +544,7 @@
                             <div class="card-pad">
                                 <div class="row no-gutters">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                                        <img src="assets/images/news3.jpg" class="w-100 p-2 news-pic" alt="..." title="...">
+                                        <img src="assets/images/news3.webp" class="w-100 p-2 news-pic" alt="..." title="...">
                                     </div>
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-12">
                                         <div class="card-body p-2">
@@ -568,7 +570,7 @@
 
                 <div class="row">
                     <div class="col-12 text-center">
-                        <a href="popular_news.php" target="_black">
+                        <a href="" target="_black">
                             <div class="more-index mx-auto my-3">
                                 ดูทั้งหมด
                             </div>
